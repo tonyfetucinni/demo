@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="200px"
+   height="125px"
+   viewBox="0 0 200 125"
+   overflow="visible"
+   enable-background="new 0 0 200 125"
+   xml:space="preserve"
+   id="svg14"
+   sodipodi:docname="silvereye-logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview16"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="2.1580899"
+   inkscape:cx="39.618368"
+   inkscape:cy="20.156714"
+   inkscape:window-width="1701"
+   inkscape:window-height="701"
+   inkscape:window-x="50"
+   inkscape:window-y="108"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg14" />
+<defs
+   id="defs2">
+</defs>
+<g
+   id="g12">
+	<defs
+   id="defs5">
+		<rect
+   id="SVGID_1_"
+   width="200"
+   height="125" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use7" />
+	</clipPath>
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   d="M179.972,74.177c-0.246,0.295-21.44,25.255-58.903,32.67   c16.628-7.887,28.151-24.798,28.151-44.349c0-19.545-11.517-36.453-28.137-44.343c37.453,7.418,58.641,32.37,58.875,32.651   C185.079,57.036,185.079,67.965,179.972,74.177 M78.989,18.121C62.331,25.998,50.78,42.925,50.78,62.498   c0,19.551,11.523,36.462,28.149,44.349c-37.46-7.415-58.653-32.372-58.888-32.653c-5.121-6.229-5.121-17.157,0.001-23.387   C20.286,50.511,41.305,25.496,78.989,18.121 M133.091,62.498c0,18.196-14.845,33-33.092,33c-18.247,0-33.091-14.804-33.091-33   c0-18.197,14.845-33,33.091-33C118.247,29.498,133.091,44.301,133.091,62.498 M192.431,40.609C191.068,38.95,158.375,0,100,0   C41.626,0,8.933,38.95,7.57,40.609C-2.523,52.884-2.523,72.116,7.569,84.391C8.933,86.05,41.626,125,100,125   c58.374,0,91.067-38.95,92.431-40.609C202.523,72.116,202.523,52.884,192.431,40.609"
+   id="path10"
+   style="fill:#92a3cc;fill-opacity:1" />
+</g>
+</svg>
